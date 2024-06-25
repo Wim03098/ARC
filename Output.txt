@@ -1,0 +1,999 @@
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 280 ; b527c5c6.json: Samples: 4
+Sample 1: Input: 10 x 10: Cells=100 C0=80; C2=2; C3=18; ; Output: 10 x 10: Cells=100 C0=59; C2=9; C3=32;
+Sample 2: Input: 20 x 20: Cells=400 C0=334; C2=2; C3=64; ; Output: 20 x 20: Cells=400 C0=272; C2=16; C3=112;
+Sample 3: Input: 20 x 20: Cells=400 C0=303; C2=2; C3=95; ; Output: 20 x 20: Cells=400 C0=198; C2=15; C3=187;
+Sample 4: Input: 20 x 20: Cells=400 C0=281; C2=2; C3=117; ; Output: 20 x 20: Cells=400 C0=118; C2=21; C3=261;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 281 ; b548a754.json: Samples: 3
+Sample 1: Input: 11 x 11: Cells=121 C0=104; C1=4; C2=12; C8=1; ; Output: 11 x 11: Cells=121 C0=89; C1=12; C2=20;
+Sample 2: Input: 11 x 11: Cells=121 C0=100; C2=6; C3=14; C8=1; ; Output: 11 x 11: Cells=121 C0=81; C2=16; C3=24;
+Sample 3: Input: 13 x 12: Cells=156 C0=140; C1=12; C6=3; C8=1; ; Output: 13 x 12: Cells=156 C0=111; C1=24; C6=21;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 282 ; b60334d2.json: Samples: 2
+Sample 1: Input: 9 x 9: Cells=81 C0=78; C5=3; ; Output: 9 x 9: Cells=81 C0=57; C1=12; C5=12;
+Sample 2: Input: 9 x 9: Cells=81 C0=77; C5=4; ; Output: 9 x 9: Cells=81 C0=49; C1=16; C5=16;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 283 ; b6afb2da.json: Samples: 2
+Sample 1: Input: 10 x 10: Cells=100 C0=64; C5=36; ; Output: 10 x 10: Cells=100 C0=64; C1=8; C2=10; C4=18;
+Sample 2: Input: 10 x 10: Cells=100 C0=46; C5=54; ; Output: 10 x 10: Cells=100 C0=46; C1=8; C2=20; C4=26;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 284 ; b7249182.json: Samples: 3
+Sample 1: Input: 14 x 10: Cells=140 C0=138; C2=1; C8=1; ; Output: 14 x 10: Cells=140 C0=120; C2=10; C8=10;
+Sample 2: Input: 10 x 13: Cells=130 C0=128; C1=1; C3=1; ; Output: 10 x 13: Cells=130 C0=108; C1=11; C3=11;
+Sample 3: Input: 10 x 18: Cells=180 C0=178; C5=1; C8=1; ; Output: 10 x 18: Cells=180 C0=156; C5=12; C8=12;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 285 ; b775ac94.json: Samples: 3
+Sample 1: Input: 30 x 30: Cells=900 C0=875; C1=9; C2=3; C3=5; C4=2; C7=5; C8=1; ; Output: 30 x 30: Cells=900 C0=836; C1=13; C2=17; C3=12; C4=13; C7=5; C8=4;
+Sample 2: Input: 20 x 20: Cells=400 C0=388; C2=9; C3=1; C4=1; C8=1; ; Output: 20 x 20: Cells=400 C0=364; C2=9; C3=9; C4=9; C8=9;
+Sample 3: Input: 14 x 14: Cells=196 C0=181; C1=1; C2=6; C4=2; C6=1; C8=5; ; Output: 14 x 14: Cells=196 C0=163; C1=6; C2=6; C4=11; C6=5; C8=5;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 286 ; b782dc8a.json: Samples: 2
+Sample 1: Input: 11 x 24: Cells=264 C0=122; C2=1; C3=4; C8=137; ; Output: 11 x 24: Cells=264 C0=65; C2=31; C3=31; C8=137;
+Sample 2: Input: 13 x 14: Cells=182 C0=89; C1=3; C4=1; C8=89; ; Output: 13 x 14: Cells=182 C0=54; C1=20; C4=19; C8=89;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 287 ; b8825c91.json: Samples: 4
+Sample 1: Input: 16 x 16: Cells=256 C1=41; C3=36; C4=24; C5=24; C6=36; C7=43; C8=5; C9=47; ; Output: 16 x 16: Cells=256 C1=44; C3=44; C5=24; C6=36; C7=48; C8=8; C9=52;
+Sample 2: Input: 16 x 16: Cells=256 C1=43; C2=14; C3=7; C4=12; C5=41; C6=67; C7=4; C8=37; C9=31; ; Output: 16 x 16: Cells=256 C1=44; C2=16; C3=8; C5=44; C6=68; C7=4; C8=40; C9=32;
+Sample 3: Input: 16 x 16: Cells=256 C1=18; C2=32; C3=19; C4=24; C5=26; C6=8; C7=30; C8=60; C9=39; ; Output: 16 x 16: Cells=256 C1=20; C2=40; C3=20; C5=28; C6=8; C7=32; C8=68; C9=40;
+Sample 4: Input: 16 x 16: Cells=256 C1=74; C2=23; C3=29; C4=18; C5=7; C6=45; C7=19; C8=11; C9=30; ; Output: 16 x 16: Cells=256 C1=80; C2=24; C3=32; C5=8; C6=48; C7=20; C8=12; C9=32;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 288 ; b8cdaf2b.json: Samples: 4
+Sample 1: Input: 3 x 3: Cells=9 C0=5; C2=3; C4=1; ; Output: 3 x 3: Cells=9 C0=3; C2=3; C4=3;
+Sample 2: Input: 5 x 5: Cells=25 C0=19; C3=1; C8=5; ; Output: 5 x 5: Cells=25 C0=15; C3=5; C8=5;
+Sample 3: Input: 5 x 5: Cells=25 C0=17; C1=3; C6=5; ; Output: 5 x 5: Cells=25 C0=15; C1=5; C6=5;
+Sample 4: Input: 7 x 7: Cells=49 C0=39; C2=7; C4=3; ; Output: 7 x 7: Cells=49 C0=35; C2=7; C4=7;
+
+Are input dimensions common: True
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 289 ; b91ae062.json: Samples: 5
+Sample 1: Input: 3 x 3: Cells=9 C0=5; C6=3; C7=1; ; Output: 6 x 6: Cells=36 C0=20; C6=12; C7=4;
+Sample 2: Input: 3 x 3: Cells=9 C0=5; C1=2; C4=2; ; Output: 6 x 6: Cells=36 C0=20; C1=8; C4=8;
+Sample 3: Input: 3 x 3: Cells=9 C0=5; C2=1; C3=2; C7=1; ; Output: 9 x 9: Cells=81 C0=45; C2=9; C3=18; C7=9;
+Sample 4: Input: 3 x 3: Cells=9 C0=4; C6=2; C8=2; C9=1; ; Output: 9 x 9: Cells=81 C0=36; C6=18; C8=18; C9=9;
+Sample 5: Input: 3 x 3: Cells=9 C0=4; C2=2; C3=1; C4=1; C8=1; ; Output: 12 x 12: Cells=144 C0=64; C2=32; C3=16; C4=16; C8=16;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 290 ; b94a9452.json: Samples: 3
+Sample 1: Input: 12 x 13: Cells=156 C0=140; C2=12; C4=4; ; Output: 4 x 4: Cells=16 C2=4; C4=12;
+Sample 2: Input: 12 x 11: Cells=132 C0=123; C1=8; C3=1; ; Output: 3 x 3: Cells=9 C1=1; C3=8;
+Sample 3: Input: 12 x 13: Cells=156 C0=131; C4=24; C6=1; ; Output: 5 x 5: Cells=25 C4=1; C6=24;
+
+Are input dimensions common: False
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 291 ; b9b7f026.json: Samples: 3
+Sample 1: Input: 15 x 13: Cells=195 C0=130; C1=4; C2=15; C3=9; C4=6; C6=10; C7=9; C8=12; ; Output: 1 x 1: Cells=1 C6=1;
+Sample 2: Input: 15 x 17: Cells=255 C0=154; C2=18; C4=20; C5=24; C7=24; C8=15; ; Output: 1 x 1: Cells=1 C5=1;
+Sample 3: Input: 16 x 17: Cells=272 C0=163; C1=30; C2=29; C3=30; C7=20; ; Output: 1 x 1: Cells=1 C2=1;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 292 ; ba26e723.json: Samples: 5
+Sample 1: Input: 3 x 10: Cells=30 C0=10; C4=20; ; Output: 3 x 10: Cells=30 C0=10; C4=12; C6=8;
+Sample 2: Input: 3 x 11: Cells=33 C0=11; C4=22; ; Output: 3 x 11: Cells=33 C0=11; C4=14; C6=8;
+Sample 3: Input: 3 x 11: Cells=33 C0=11; C4=22; ; Output: 3 x 11: Cells=33 C0=11; C4=14; C6=8;
+Sample 4: Input: 3 x 13: Cells=39 C0=13; C4=26; ; Output: 3 x 13: Cells=39 C0=13; C4=16; C6=10;
+Sample 5: Input: 3 x 14: Cells=42 C0=14; C4=28; ; Output: 3 x 14: Cells=42 C0=14; C4=18; C6=10;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 293 ; ba97ae07.json: Samples: 4
+Sample 1: Input: 13 x 13: Cells=169 C0=110; C3=33; C8=26; ; Output: 13 x 13: Cells=169 C0=110; C3=39; C8=20;
+Sample 2: Input: 7 x 9: Cells=63 C0=42; C1=9; C6=12; ; Output: 7 x 9: Cells=63 C0=42; C1=7; C6=14;
+Sample 3: Input: 8 x 7: Cells=56 C0=42; C1=7; C7=7; ; Output: 8 x 7: Cells=56 C0=42; C1=8; C7=6;
+Sample 4: Input: 8 x 6: Cells=48 C0=35; C2=5; C3=8; ; Output: 8 x 6: Cells=48 C0=35; C2=6; C3=7;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 294 ; bb43febb.json: Samples: 2
+Sample 1: Input: 10 x 10: Cells=100 C0=63; C5=37; ; Output: 10 x 10: Cells=100 C0=63; C2=11; C5=26;
+Sample 2: Input: 10 x 10: Cells=100 C0=55; C5=45; ; Output: 10 x 10: Cells=100 C0=55; C2=15; C5=30;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 295 ; bbc9ae5d.json: Samples: 5
+Sample 1: Input: 1 x 6: Cells=6 C0=4; C1=2; ; Output: 3 x 6: Cells=18 C0=9; C1=9;
+Sample 2: Input: 1 x 8: Cells=8 C0=7; C2=1; ; Output: 4 x 8: Cells=32 C0=22; C2=10;
+Sample 3: Input: 1 x 10: Cells=10 C0=7; C5=3; ; Output: 5 x 10: Cells=50 C0=25; C5=25;
+Sample 4: Input: 1 x 6: Cells=6 C0=2; C8=4; ; Output: 3 x 6: Cells=18 C0=3; C8=15;
+Sample 5: Input: 1 x 6: Cells=6 C0=5; C7=1; ; Output: 3 x 6: Cells=18 C0=12; C7=6;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 296 ; bc1d5164.json: Samples: 5
+Sample 1: Input: 5 x 7: Cells=35 C0=23; C8=12; ; Output: 3 x 3: Cells=9 C0=4; C8=5;
+Sample 2: Input: 5 x 7: Cells=35 C0=26; C2=9; ; Output: 3 x 3: Cells=9 C0=2; C2=7;
+Sample 3: Input: 5 x 7: Cells=35 C0=28; C4=7; ; Output: 3 x 3: Cells=9 C0=3; C4=6;
+Sample 4: Input: 5 x 7: Cells=35 C0=30; C4=5; ; Output: 3 x 3: Cells=9 C0=4; C4=5;
+Sample 5: Input: 5 x 7: Cells=35 C0=30; C3=5; ; Output: 3 x 3: Cells=9 C0=5; C3=4;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 297 ; bd4472b8.json: Samples: 3
+Sample 1: Input: 8 x 3: Cells=24 C0=18; C1=1; C2=1; C4=1; C5=3; ; Output: 8 x 3: Cells=24 C1=7; C2=7; C4=7; C5=3;
+Sample 2: Input: 10 x 4: Cells=40 C0=32; C1=1; C2=1; C3=1; C4=1; C5=4; ; Output: 10 x 4: Cells=40 C1=9; C2=9; C3=9; C4=9; C5=4;
+Sample 3: Input: 6 x 2: Cells=12 C0=8; C3=1; C5=2; C8=1; ; Output: 6 x 2: Cells=12 C3=5; C5=2; C8=5;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 298 ; bda2d7a6.json: Samples: 3
+Sample 1: Input: 6 x 6: Cells=36 C0=4; C2=12; C3=20; ; Output: 6 x 6: Cells=36 C0=20; C2=4; C3=12;
+Sample 2: Input: 6 x 6: Cells=36 C0=20; C6=4; C7=12; ; Output: 6 x 6: Cells=36 C0=12; C6=20; C7=4;
+Sample 3: Input: 8 x 8: Cells=64 C0=20; C5=12; C8=32; ; Output: 8 x 8: Cells=64 C0=12; C5=32; C8=20;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 299 ; bdad9b1f.json: Samples: 2
+Sample 1: Input: 6 x 6: Cells=36 C0=32; C2=2; C8=2; ; Output: 6 x 6: Cells=36 C0=25; C2=5; C4=1; C8=5;
+Sample 2: Input: 6 x 6: Cells=36 C0=32; C2=2; C8=2; ; Output: 6 x 6: Cells=36 C0=25; C2=5; C4=1; C8=5;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 300 ; be94b721.json: Samples: 4
+Sample 1: Input: 7 x 13: Cells=91 C0=74; C1=6; C2=8; C3=3; ; Output: 4 x 3: Cells=12 C0=4; C2=8;
+Sample 2: Input: 5 x 10: Cells=50 C0=36; C3=5; C4=6; C6=3; ; Output: 3 x 2: Cells=6 C4=6;
+Sample 3: Input: 6 x 11: Cells=66 C0=49; C2=4; C7=5; C8=8; ; Output: 4 x 3: Cells=12 C0=4; C8=8;
+Sample 4: Input: 7 x 9: Cells=63 C0=48; C2=7; C7=4; C8=4; ; Output: 3 x 3: Cells=9 C0=2; C2=7;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 301 ; beb8660c.json: Samples: 3
+Sample 1: Input: 10 x 7: Cells=70 C0=42; C1=3; C2=2; C3=1; C4=4; C5=6; C6=5; C8=7; ; Output: 10 x 7: Cells=70 C0=42; C1=3; C2=2; C3=1; C4=4; C5=6; C6=5; C8=7;
+Sample 2: Input: 7 x 4: Cells=28 C0=18; C1=1; C2=3; C3=2; C8=4; ; Output: 7 x 4: Cells=28 C0=18; C1=1; C2=3; C3=2; C8=4;
+Sample 3: Input: 3 x 3: Cells=9 C0=3; C2=2; C4=1; C8=3; ; Output: 3 x 3: Cells=9 C0=3; C2=2; C4=1; C8=3;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 302 ; c0f76784.json: Samples: 3
+Sample 1: Input: 12 x 12: Cells=144 C0=108; C5=36; ; Output: 12 x 12: Cells=144 C0=94; C5=36; C6=1; C7=4; C8=9;
+Sample 2: Input: 12 x 12: Cells=144 C0=108; C5=36; ; Output: 12 x 12: Cells=144 C0=94; C5=36; C6=1; C7=4; C8=9;
+Sample 3: Input: 12 x 12: Cells=144 C0=116; C5=28; ; Output: 12 x 12: Cells=144 C0=103; C5=28; C7=4; C8=9;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 303 ; c1d99e64.json: Samples: 3
+Sample 1: Input: 12 x 19: Cells=228 C0=89; C1=139; ; Output: 12 x 19: Cells=228 C0=59; C1=139; C2=30;
+Sample 2: Input: 12 x 14: Cells=168 C0=65; C8=103; ; Output: 12 x 14: Cells=168 C0=41; C2=24; C8=103;
+Sample 3: Input: 17 x 15: Cells=255 C0=112; C3=143; ; Output: 17 x 15: Cells=255 C0=67; C2=45; C3=143;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 304 ; c3e719e8.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C3=3; C7=2; C8=2; C9=2; ; Output: 9 x 9: Cells=81 C0=54; C3=9; C7=6; C8=6; C9=6;
+Sample 2: Input: 3 x 3: Cells=9 C3=2; C6=1; C8=6; ; Output: 9 x 9: Cells=81 C0=27; C3=12; C6=6; C8=36;
+Sample 3: Input: 3 x 3: Cells=9 C4=1; C6=2; C8=2; C9=4; ; Output: 9 x 9: Cells=81 C0=45; C4=4; C6=8; C8=8; C9=16;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 305 ; c3f564a4.json: Samples: 3
+Sample 1: Input: 16 x 16: Cells=256 C0=43; C1=44; C2=43; C3=42; C4=42; C5=42; ; Output: 16 x 16: Cells=256 C1=52; C2=51; C3=51; C4=51; C5=51;
+Sample 2: Input: 16 x 16: Cells=256 C0=39; C1=35; C2=37; C3=37; C4=37; C5=36; C6=35; ; Output: 16 x 16: Cells=256 C1=42; C2=42; C3=43; C4=44; C5=43; C6=42;
+Sample 3: Input: 16 x 16: Cells=256 C0=40; C1=33; C2=35; C3=32; C4=30; C5=29; C6=28; C7=29; ; Output: 16 x 16: Cells=256 C1=37; C2=38; C3=37; C4=36; C5=36; C6=36; C7=36;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 306 ; c444b776.json: Samples: 2
+Sample 1: Input: 19 x 19: Cells=361 C0=314; C2=2; C3=3; C4=37; C7=3; C8=2; ; Output: 19 x 19: Cells=361 C0=284; C2=8; C3=12; C4=37; C7=12; C8=8;       
+Sample 2: Input: 19 x 9: Cells=171 C0=152; C1=3; C2=4; C4=9; C5=3; ; Output: 19 x 9: Cells=171 C0=142; C1=6; C2=8; C4=9; C5=6;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 307 ; c59eb873.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C0=2; C1=1; C2=1; C5=5; ; Output: 6 x 6: Cells=36 C0=8; C1=4; C2=4; C5=20;
+Sample 2: Input: 2 x 2: Cells=4 C1=2; C2=1; C3=1; ; Output: 4 x 4: Cells=16 C1=8; C2=4; C3=4;
+Sample 3: Input: 4 x 4: Cells=16 C0=7; C1=1; C2=2; C3=5; C5=1; ; Output: 8 x 8: Cells=64 C0=28; C1=4; C2=8; C3=20; C5=4;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 308 ; c8cbb738.json: Samples: 3
+Sample 1: Input: 12 x 11: Cells=132 C1=4; C2=4; C3=116; C4=4; C8=4; ; Output: 5 x 5: Cells=25 C1=4; C2=4; C3=9; C4=4; C8=4;
+Sample 2: Input: 10 x 8: Cells=80 C1=72; C3=4; C8=4; ; Output: 3 x 3: Cells=9 C1=1; C3=4; C8=4;
+Sample 3: Input: 12 x 14: Cells=168 C1=4; C4=160; C7=4; ; Output: 5 x 5: Cells=25 C1=4; C4=17; C7=4;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 309 ; c8f0f002.json: Samples: 3
+Sample 1: Input: 3 x 6: Cells=18 C1=6; C7=7; C8=5; ; Output: 3 x 6: Cells=18 C1=6; C5=7; C8=5;
+Sample 2: Input: 3 x 4: Cells=12 C1=5; C7=6; C8=1; ; Output: 3 x 4: Cells=12 C1=5; C5=6; C8=1;
+Sample 3: Input: 3 x 5: Cells=15 C1=6; C7=4; C8=5; ; Output: 3 x 5: Cells=15 C1=6; C5=4; C8=5;
+
+Are input dimensions common: False
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 310 ; c909285e.json: Samples: 3
+Sample 1: Input: 24 x 24: Cells=576 C0=100; C2=112; C3=24; C4=144; C5=152; C8=44; ; Output: 7 x 7: Cells=49 C0=4; C2=7; C3=24; C4=9; C8=5;
+Sample 2: Input: 26 x 26: Cells=676 C0=121; C1=75; C2=24; C3=128; C8=328; ; Output: 7 x 7: Cells=49 C0=1; C1=3; C2=24; C3=12; C8=9;
+Sample 3: Input: 28 x 28: Cells=784 C0=121; C1=104; C3=215; C5=184; C6=24; C8=136; ; Output: 7 x 7: Cells=49 C0=6; C1=3; C3=9; C6=24; C8=7;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 311 ; c9e6f938.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C0=5; C7=4; ; Output: 3 x 6: Cells=18 C0=10; C7=8;
+Sample 2: Input: 3 x 3: Cells=9 C0=7; C7=2; ; Output: 3 x 6: Cells=18 C0=14; C7=4;
+Sample 3: Input: 3 x 3: Cells=9 C0=8; C7=1; ; Output: 3 x 6: Cells=18 C0=16; C7=2;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 312 ; c9f8e694.json: Samples: 2
+Sample 1: Input: 12 x 12: Cells=144 C0=96; C1=7; C2=4; C5=37; ; Output: 12 x 12: Cells=144 C0=96; C1=29; C2=19;
+Sample 2: Input: 12 x 12: Cells=144 C0=59; C3=6; C4=5; C5=74; ; Output: 12 x 12: Cells=144 C0=59; C3=48; C4=37;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 313 ; caa06a1f.json: Samples: 3
+Sample 1: Input: 11 x 11: Cells=121 C3=72; C6=25; C7=24; ; Output: 11 x 11: Cells=121 C6=60; C7=61;
+Sample 2: Input: 8 x 8: Cells=64 C1=15; C3=24; C6=25; ; Output: 8 x 8: Cells=64 C3=32; C6=32;
+Sample 3: Input: 6 x 6: Cells=36 C4=12; C5=13; C6=11; ; Output: 6 x 6: Cells=36 C4=18; C5=18;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 314 ; cbded52d.json: Samples: 3
+Sample 1: Input: 8 x 8: Cells=64 C0=28; C1=31; C2=2; C4=3; ; Output: 8 x 8: Cells=64 C0=28; C1=28; C2=3; C4=5;
+Sample 2: Input: 8 x 8: Cells=64 C0=28; C1=31; C3=3; C7=2; ; Output: 8 x 8: Cells=64 C0=28; C1=28; C3=5; C7=3;
+Sample 3: Input: 8 x 8: Cells=64 C0=28; C1=34; C3=2; ; Output: 8 x 8: Cells=64 C0=28; C1=33; C3=3;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 315 ; cce03e0d.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C0=5; C1=3; C2=1; ; Output: 9 x 9: Cells=81 C0=77; C1=3; C2=1;
+Sample 2: Input: 3 x 3: Cells=9 C0=4; C1=3; C2=2; ; Output: 9 x 9: Cells=81 C0=71; C1=6; C2=4;
+Sample 3: Input: 3 x 3: Cells=9 C0=2; C1=3; C2=4; ; Output: 9 x 9: Cells=81 C0=53; C1=12; C2=16;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 316 ; cdecee7f.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=94; C1=1; C3=1; C6=1; C7=1; C8=1; C9=1; ; Output: 3 x 3: Cells=9 C0=3; C1=1; C3=1; C6=1; C7=1; C8=1; C9=1;      
+Sample 2: Input: 10 x 10: Cells=100 C0=93; C2=1; C3=1; C4=1; C5=1; C6=1; C8=1; C9=1; ; Output: 3 x 3: Cells=9 C0=2; C2=1; C3=1; C4=1; C5=1; C6=1; C8=1; C9=1;
+Sample 3: Input: 10 x 10: Cells=100 C0=91; C1=2; C2=1; C3=2; C4=1; C5=2; C9=1; ; Output: 3 x 3: Cells=9 C1=2; C2=1; C3=2; C4=1; C5=2; C9=1;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 317 ; ce22a75a.json: Samples: 2
+Sample 1: Input: 9 x 9: Cells=81 C0=78; C5=3; ; Output: 9 x 9: Cells=81 C0=54; C1=27;
+Sample 2: Input: 9 x 9: Cells=81 C0=77; C5=4; ; Output: 9 x 9: Cells=81 C0=45; C1=36;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 318 ; ce4f8723.json: Samples: 4
+Sample 1: Input: 9 x 4: Cells=36 C0=15; C1=7; C2=10; C4=4; ; Output: 4 x 4: Cells=16 C0=4; C3=12;
+Sample 2: Input: 9 x 4: Cells=36 C0=13; C1=10; C2=9; C4=4; ; Output: 4 x 4: Cells=16 C0=3; C3=13;
+Sample 3: Input: 9 x 4: Cells=36 C0=14; C1=11; C2=7; C4=4; ; Output: 4 x 4: Cells=16 C0=4; C3=12;
+Sample 4: Input: 9 x 4: Cells=36 C0=16; C1=10; C2=6; C4=4; ; Output: 4 x 4: Cells=16 C0=2; C3=14;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 319 ; ce602527.json: Samples: 4
+Sample 1: Input: 17 x 17: Cells=289 C1=207; C2=17; C3=17; C8=48; ; Output: 5 x 5: Cells=25 C1=8; C2=17;
+Sample 2: Input: 18 x 18: Cells=324 C3=9; C4=9; C6=28; C8=278; ; Output: 5 x 3: Cells=15 C4=9; C8=6;
+Sample 3: Input: 19 x 17: Cells=323 C1=16; C2=287; C3=9; C8=11; ; Output: 5 x 3: Cells=15 C2=4; C8=11;
+Sample 4: Input: 15 x 17: Cells=255 C1=203; C2=30; C3=10; C8=12; ; Output: 3 x 5: Cells=15 C1=5; C3=10;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 320 ; ce9e57f2.json: Samples: 3
+Sample 1: Input: 7 x 9: Cells=63 C0=45; C2=18; ; Output: 7 x 9: Cells=63 C0=45; C2=10; C8=8;
+Sample 2: Input: 8 x 9: Cells=72 C0=51; C2=21; ; Output: 8 x 9: Cells=72 C0=51; C2=12; C8=9;
+Sample 3: Input: 9 x 9: Cells=81 C0=59; C2=22; ; Output: 9 x 9: Cells=81 C0=59; C2=12; C8=10;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 321 ; cf98881b.json: Samples: 5
+Sample 1: Input: 4 x 14: Cells=56 C0=27; C1=7; C2=8; C4=8; C9=6; ; Output: 4 x 4: Cells=16 C0=3; C1=2; C4=8; C9=3;
+Sample 2: Input: 4 x 14: Cells=56 C0=27; C1=6; C2=8; C4=9; C9=6; ; Output: 4 x 4: Cells=16 C0=4; C1=2; C4=9; C9=1;
+Sample 3: Input: 4 x 14: Cells=56 C0=23; C1=6; C2=8; C4=10; C9=9; ; Output: 4 x 4: Cells=16 C0=1; C1=1; C4=10; C9=4;
+Sample 4: Input: 4 x 14: Cells=56 C0=25; C1=7; C2=8; C4=10; C9=6; ; Output: 4 x 4: Cells=16 C0=3; C1=1; C4=10; C9=2;
+Sample 5: Input: 4 x 14: Cells=56 C0=25; C1=8; C2=8; C4=11; C9=4; ; Output: 4 x 4: Cells=16 C0=2; C1=3; C4=11;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 322 ; d037b0a7.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C0=6; C3=1; C4=1; C6=1; ; Output: 3 x 3: Cells=9 C0=3; C3=1; C4=2; C6=3;
+Sample 2: Input: 3 x 3: Cells=9 C0=6; C2=1; C7=1; C8=1; ; Output: 3 x 3: Cells=9 C0=2; C2=3; C7=2; C8=2;
+Sample 3: Input: 3 x 3: Cells=9 C0=7; C2=1; C4=1; ; Output: 3 x 3: Cells=9 C0=4; C2=2; C4=3;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 323 ; d06dbe63.json: Samples: 2
+Sample 1: Input: 13 x 13: Cells=169 C0=168; C8=1; ; Output: 13 x 13: Cells=169 C0=153; C5=15; C8=1;
+Sample 2: Input: 13 x 13: Cells=169 C0=168; C8=1; ; Output: 13 x 13: Cells=169 C0=146; C5=22; C8=1;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 324 ; d07ae81c.json: Samples: 3
+Sample 1: Input: 19 x 12: Cells=228 C1=1; C2=131; C4=1; C8=95; ; Output: 19 x 12: Cells=228 C1=15; C2=115; C4=17; C8=81;
+Sample 2: Input: 12 x 14: Cells=168 C1=95; C2=1; C3=71; C8=1; ; Output: 12 x 14: Cells=168 C1=79; C2=17; C3=64; C8=8;
+Sample 3: Input: 15 x 15: Cells=225 C1=89; C3=2; C6=133; C8=1; ; Output: 15 x 15: Cells=225 C1=74; C3=24; C6=111; C8=16;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 325 ; d0f5fe59.json: Samples: 3
+Sample 1: Input: 16 x 10: Cells=160 C0=136; C8=24; ; Output: 4 x 4: Cells=16 C0=12; C8=4;
+Sample 2: Input: 12 x 12: Cells=144 C0=127; C8=17; ; Output: 3 x 3: Cells=9 C0=6; C8=3;
+Sample 3: Input: 8 x 12: Cells=96 C0=85; C8=11; ; Output: 2 x 2: Cells=4 C0=2; C8=2;
+
+Are input dimensions common: False
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 326 ; d10ecb37.json: Samples: 3
+Sample 1: Input: 6 x 6: Cells=36 C0=9; C3=9; C4=9; C6=9; ; Output: 2 x 2: Cells=4 C0=1; C3=1; C4=1; C6=1;
+Sample 2: Input: 8 x 8: Cells=64 C2=32; C4=16; C5=16; ; Output: 2 x 2: Cells=4 C2=2; C4=1; C5=1;
+Sample 3: Input: 12 x 6: Cells=72 C1=18; C2=18; C3=18; C4=18; ; Output: 2 x 2: Cells=4 C1=1; C2=1; C3=1; C4=1;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 327 ; d13f3404.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C0=6; C1=1; C3=1; C6=1; ; Output: 6 x 6: Cells=36 C0=20; C1=5; C3=5; C6=6;
+Sample 2: Input: 3 x 3: Cells=9 C0=6; C2=1; C4=1; C8=1; ; Output: 6 x 6: Cells=36 C0=22; C2=4; C4=5; C8=5;
+Sample 3: Input: 3 x 3: Cells=9 C0=6; C1=1; C3=1; C6=1; ; Output: 6 x 6: Cells=36 C0=22; C1=5; C3=5; C6=4;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 328 ; d22278a0.json: Samples: 4
+Sample 1: Input: 10 x 10: Cells=100 C0=98; C1=1; C2=1; ; Output: 10 x 10: Cells=100 C0=50; C1=25; C2=25;
+Sample 2: Input: 12 x 12: Cells=144 C0=142; C3=1; C8=1; ; Output: 12 x 12: Cells=144 C0=78; C3=33; C8=33;
+Sample 3: Input: 13 x 13: Cells=169 C0=167; C2=1; C4=1; ; Output: 13 x 13: Cells=169 C0=91; C2=39; C4=39;
+Sample 4: Input: 7 x 7: Cells=49 C0=46; C1=1; C2=1; C8=1; ; Output: 7 x 7: Cells=49 C0=27; C1=6; C2=8; C8=8;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 329 ; d23f8c26.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C0=4; C1=1; C3=1; C4=1; C6=1; C9=1; ; Output: 3 x 3: Cells=9 C0=7; C3=1; C4=1;
+Sample 2: Input: 5 x 5: Cells=25 C0=12; C3=3; C5=3; C6=3; C8=2; C9=2; ; Output: 5 x 5: Cells=25 C0=21; C3=2; C5=1; C9=1;
+Sample 3: Input: 5 x 5: Cells=25 C0=14; C2=2; C3=2; C4=2; C6=1; C7=2; C8=2; ; Output: 5 x 5: Cells=25 C0=22; C4=2; C8=1;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 330 ; d2abd087.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=83; C5=17; ; Output: 10 x 10: Cells=100 C0=83; C1=5; C2=12;
+Sample 2: Input: 10 x 10: Cells=100 C0=73; C5=27; ; Output: 10 x 10: Cells=100 C0=73; C1=15; C2=12;
+Sample 3: Input: 10 x 10: Cells=100 C0=65; C5=35; ; Output: 10 x 10: Cells=100 C0=65; C1=23; C2=12;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 331 ; d364b489.json: Samples: 2
+Sample 1: Input: 10 x 10: Cells=100 C0=95; C1=5; ; Output: 10 x 10: Cells=100 C0=77; C1=5; C2=5; C6=4; C7=5; C8=4;
+Sample 2: Input: 10 x 10: Cells=100 C0=94; C1=6; ; Output: 10 x 10: Cells=100 C0=75; C1=6; C2=5; C6=4; C7=5; C8=5;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 332 ; d406998b.json: Samples: 4
+Sample 1: Input: 3 x 10: Cells=30 C0=20; C5=10; ; Output: 3 x 10: Cells=30 C0=20; C3=5; C5=5;
+Sample 2: Input: 3 x 12: Cells=36 C0=24; C5=12; ; Output: 3 x 12: Cells=36 C0=24; C3=6; C5=6;
+Sample 3: Input: 3 x 13: Cells=39 C0=26; C5=13; ; Output: 3 x 13: Cells=39 C0=26; C3=7; C5=6;
+Sample 4: Input: 3 x 14: Cells=42 C0=28; C5=14; ; Output: 3 x 14: Cells=42 C0=28; C3=7; C5=7;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 333 ; d43fd935.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=89; C1=3; C3=4; C6=4; ; Output: 10 x 10: Cells=100 C0=82; C1=7; C3=4; C6=7;
+Sample 2: Input: 10 x 10: Cells=100 C0=86; C3=4; C7=5; C8=5; ; Output: 10 x 10: Cells=100 C0=77; C3=4; C7=11; C8=8;
+Sample 3: Input: 10 x 10: Cells=100 C0=92; C1=4; C3=4; ; Output: 10 x 10: Cells=100 C0=88; C1=8; C3=4;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 334 ; d4469b4b.json: Samples: 7
+Sample 1: Input: 5 x 5: Cells=25 C0=16; C2=9; ; Output: 3 x 3: Cells=9 C0=4; C5=5;
+Sample 2: Input: 5 x 5: Cells=25 C0=16; C1=9; ; Output: 3 x 3: Cells=9 C0=4; C5=5;
+Sample 3: Input: 5 x 5: Cells=25 C0=15; C3=10; ; Output: 3 x 3: Cells=9 C0=4; C5=5;
+Sample 4: Input: 5 x 5: Cells=25 C0=13; C1=12; ; Output: 3 x 3: Cells=9 C0=4; C5=5;
+Sample 5: Input: 5 x 5: Cells=25 C0=11; C2=14; ; Output: 3 x 3: Cells=9 C0=4; C5=5;
+Sample 6: Input: 5 x 5: Cells=25 C0=12; C2=13; ; Output: 3 x 3: Cells=9 C0=4; C5=5;
+Sample 7: Input: 5 x 5: Cells=25 C0=16; C3=9; ; Output: 3 x 3: Cells=9 C0=4; C5=5;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 335 ; d4a91cb9.json: Samples: 3
+Sample 1: Input: 10 x 12: Cells=120 C0=118; C2=1; C8=1; ; Output: 10 x 12: Cells=120 C0=105; C2=1; C4=13; C8=1;
+Sample 2: Input: 8 x 11: Cells=88 C0=86; C2=1; C8=1; ; Output: 8 x 11: Cells=88 C0=76; C2=1; C4=10; C8=1;
+Sample 3: Input: 12 x 11: Cells=132 C0=130; C2=1; C8=1; ; Output: 12 x 11: Cells=132 C0=116; C2=1; C4=14; C8=1;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 336 ; d4f3cd78.json: Samples: 2
+Sample 1: Input: 10 x 10: Cells=100 C0=81; C5=19; ; Output: 10 x 10: Cells=100 C0=62; C5=19; C8=19;
+Sample 2: Input: 10 x 10: Cells=100 C0=83; C5=17; ; Output: 10 x 10: Cells=100 C0=65; C5=17; C8=18;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 337 ; d511f180.json: Samples: 3
+Sample 1: Input: 5 x 5: Cells=25 C1=1; C2=2; C3=2; C4=2; C5=7; C6=3; C7=1; C8=6; C9=1; ; Output: 5 x 5: Cells=25 C1=1; C2=2; C3=2; C4=2; C5=6; C6=3; C7=1; C8=7; C9=1;
+Sample 2: Input: 3 x 3: Cells=9 C1=1; C2=1; C3=1; C4=2; C5=2; C8=1; C9=1; ; Output: 3 x 3: Cells=9 C1=1; C2=1; C3=1; C4=2; C5=1; C8=2; C9=1;
+Sample 3: Input: 3 x 3: Cells=9 C2=1; C3=1; C5=3; C6=1; C7=1; C8=2; ; Output: 3 x 3: Cells=9 C2=1; C3=1; C5=2; C6=1; C7=1; C8=3;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 338 ; d5d6de2d.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=78; C2=22; ; Output: 10 x 10: Cells=100 C0=93; C3=7;
+Sample 2: Input: 10 x 10: Cells=100 C0=90; C2=10; ; Output: 10 x 10: Cells=100 C0=98; C3=2;
+Sample 3: Input: 15 x 15: Cells=225 C0=205; C2=20; ; Output: 15 x 15: Cells=225 C0=216; C3=9;
+
+Are input dimensions common: True
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 339 ; d631b094.json: Samples: 4
+Sample 1: Input: 3 x 3: Cells=9 C0=7; C1=2; ; Output: 1 x 2: Cells=2 C1=2;
+Sample 2: Input: 3 x 3: Cells=9 C0=6; C2=3; ; Output: 1 x 3: Cells=3 C2=3;
+Sample 3: Input: 3 x 3: Cells=9 C0=8; C7=1; ; Output: 1 x 1: Cells=1 C7=1;
+Sample 4: Input: 3 x 3: Cells=9 C0=5; C8=4; ; Output: 1 x 4: Cells=4 C8=4;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 340 ; d687bc17.json: Samples: 3
+Sample 1: Input: 10 x 15: Cells=150 C0=101; C2=10; C3=10; C4=14; C7=1; C8=14; ; Output: 10 x 15: Cells=150 C0=102; C2=10; C3=10; C4=14; C8=14;
+Sample 2: Input: 12 x 12: Cells=144 C0=97; C1=11; C2=11; C3=1; C4=11; C7=12; C8=1; ; Output: 12 x 12: Cells=144 C0=99; C1=11; C2=11; C4=11; C7=12;     
+Sample 3: Input: 14 x 11: Cells=154 C0=106; C2=1; C3=9; C4=13; C6=10; C8=15; ; Output: 14 x 11: Cells=154 C0=107; C3=9; C4=13; C6=10; C8=15;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 341 ; d6ad076f.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=70; C2=12; C7=18; ; Output: 10 x 10: Cells=100 C0=64; C2=12; C7=18; C8=6;
+Sample 2: Input: 10 x 10: Cells=100 C0=61; C4=24; C6=15; ; Output: 10 x 10: Cells=100 C0=52; C4=24; C6=15; C8=9;
+Sample 3: Input: 10 x 10: Cells=100 C0=61; C3=27; C9=12; ; Output: 10 x 10: Cells=100 C0=41; C3=27; C8=20; C9=12;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 342 ; d89b689b.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=92; C4=1; C6=1; C7=1; C8=4; C9=1; ; Output: 10 x 10: Cells=100 C0=96; C4=1; C6=1; C7=1; C9=1;
+Sample 2: Input: 10 x 10: Cells=100 C0=92; C1=1; C2=1; C5=1; C8=4; C9=1; ; Output: 10 x 10: Cells=100 C0=96; C1=1; C2=1; C5=1; C9=1;
+Sample 3: Input: 10 x 10: Cells=100 C0=92; C1=1; C3=1; C4=1; C6=1; C8=4; ; Output: 10 x 10: Cells=100 C0=96; C1=1; C3=1; C4=1; C6=1;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 343 ; d8c310e9.json: Samples: 3
+Sample 1: Input: 5 x 15: Cells=75 C0=64; C1=3; C2=8; ; Output: 5 x 15: Cells=75 C0=50; C1=5; C2=20;
+Sample 2: Input: 5 x 15: Cells=75 C0=63; C1=2; C2=6; C3=4; ; Output: 5 x 15: Cells=75 C0=52; C1=3; C2=12; C3=8;
+Sample 3: Input: 5 x 15: Cells=75 C0=56; C2=4; C3=6; C4=9; ; Output: 5 x 15: Cells=75 C0=45; C2=5; C3=10; C4=15;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 344 ; d90796e8.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C0=6; C2=1; C3=1; C5=1; ; Output: 3 x 3: Cells=9 C0=7; C5=1; C8=1;
+Sample 2: Input: 7 x 6: Cells=42 C0=34; C2=3; C3=3; C5=2; ; Output: 7 x 6: Cells=42 C0=36; C2=1; C3=1; C5=2; C8=2;
+Sample 3: Input: 7 x 7: Cells=49 C0=38; C2=4; C3=5; C5=2; ; Output: 7 x 7: Cells=49 C0=41; C2=1; C3=2; C5=2; C8=3;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 345 ; d9f24cd1.json: Samples: 2
+Sample 1: Input: 10 x 10: Cells=100 C0=95; C2=3; C5=2; ; Output: 10 x 10: Cells=100 C0=67; C2=31; C5=2;
+Sample 2: Input: 10 x 10: Cells=100 C0=94; C2=3; C5=3; ; Output: 10 x 10: Cells=100 C0=66; C2=31; C5=3;
+
+Are input dimensions common: False
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 346 ; d9fac9be.json: Samples: 4
+Sample 1: Input: 5 x 9: Cells=45 C0=29; C2=8; C4=8; ; Output: 1 x 1: Cells=1 C2=1;
+Sample 2: Input: 7 x 9: Cells=63 C0=43; C3=10; C8=10; ; Output: 1 x 1: Cells=1 C8=1;
+Sample 3: Input: 11 x 9: Cells=99 C0=71; C1=9; C2=19; ; Output: 1 x 1: Cells=1 C1=1;
+Sample 4: Input: 11 x 12: Cells=132 C0=102; C3=20; C8=10; ; Output: 1 x 1: Cells=1 C8=1;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 347 ; dae9d2b5.json: Samples: 5
+Sample 1: Input: 3 x 6: Cells=18 C0=11; C3=4; C4=3; ; Output: 3 x 3: Cells=9 C0=5; C6=4;
+Sample 2: Input: 3 x 6: Cells=18 C0=10; C3=4; C4=4; ; Output: 3 x 3: Cells=9 C0=3; C6=6;
+Sample 3: Input: 3 x 6: Cells=18 C0=9; C3=4; C4=5; ; Output: 3 x 3: Cells=9 C0=1; C6=8;
+Sample 4: Input: 3 x 6: Cells=18 C0=13; C3=2; C4=3; ; Output: 3 x 3: Cells=9 C0=5; C6=4;
+Sample 5: Input: 3 x 6: Cells=18 C0=13; C3=3; C4=2; ; Output: 3 x 3: Cells=9 C0=4; C6=5;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 348 ; db3e9e38.json: Samples: 2
+Sample 1: Input: 5 x 7: Cells=35 C0=31; C7=4; ; Output: 5 x 7: Cells=35 C0=19; C7=8; C8=8;
+Sample 2: Input: 7 x 8: Cells=56 C0=51; C7=5; ; Output: 7 x 8: Cells=56 C0=34; C7=12; C8=10;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 349 ; db93a21d.json: Samples: 4
+Sample 1: Input: 10 x 10: Cells=100 C0=92; C9=8; ; Output: 10 x 10: Cells=100 C0=58; C1=14; C3=20; C9=8;
+Sample 2: Input: 15 x 15: Cells=225 C0=201; C9=24; ; Output: 15 x 15: Cells=225 C0=87; C1=46; C3=68; C9=24;
+Sample 3: Input: 20 x 20: Cells=400 C0=344; C9=56; ; Output: 20 x 20: Cells=400 C0=153; C1=49; C3=142; C9=56;
+Sample 4: Input: 20 x 20: Cells=400 C0=340; C9=60; ; Output: 20 x 20: Cells=400 C0=104; C1=92; C3=144; C9=60;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 350 ; dbc1a6ce.json: Samples: 4
+Sample 1: Input: 10 x 9: Cells=90 C0=83; C1=7; ; Output: 10 x 9: Cells=90 C0=70; C1=7; C8=13;
+Sample 2: Input: 10 x 11: Cells=110 C0=102; C1=8; ; Output: 10 x 11: Cells=110 C0=88; C1=8; C8=14;
+Sample 3: Input: 12 x 12: Cells=144 C0=131; C1=13; ; Output: 12 x 12: Cells=144 C0=102; C1=13; C8=29;
+Sample 4: Input: 8 x 9: Cells=72 C0=63; C1=9; ; Output: 8 x 9: Cells=72 C0=52; C1=9; C8=11;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 351 ; dc0a314f.json: Samples: 3
+Sample 1: Input: 16 x 16: Cells=256 C1=20; C2=53; C3=25; C5=70; C6=56; C7=6; C8=26; ; Output: 5 x 5: Cells=25 C2=7; C5=10; C7=2; C8=6;
+Sample 2: Input: 16 x 16: Cells=256 C1=14; C2=70; C3=25; C7=79; C8=34; C9=34; ; Output: 5 x 5: Cells=25 C1=2; C2=10; C7=9; C8=2; C9=2;
+Sample 3: Input: 16 x 16: Cells=256 C2=40; C3=25; C4=28; C5=56; C6=15; C7=4; C9=88; ; Output: 5 x 5: Cells=25 C2=4; C5=8; C6=1; C9=12;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 352 ; dc1df850.json: Samples: 3
+Sample 1: Input: 5 x 5: Cells=25 C0=22; C2=2; C6=1; ; Output: 5 x 5: Cells=25 C0=11; C1=11; C2=2; C6=1;
+Sample 2: Input: 8 x 8: Cells=64 C0=60; C2=2; C3=1; C8=1; ; Output: 8 x 8: Cells=64 C0=49; C1=11; C2=2; C3=1; C8=1;
+Sample 3: Input: 4 x 5: Cells=20 C0=19; C2=1; ; Output: 4 x 5: Cells=20 C0=11; C1=8; C2=1;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 353 ; dc433765.json: Samples: 7
+Sample 1: Input: 3 x 3: Cells=9 C0=7; C3=1; C4=1; ; Output: 3 x 3: Cells=9 C0=7; C3=1; C4=1;
+Sample 2: Input: 5 x 3: Cells=15 C0=13; C3=1; C4=1; ; Output: 5 x 3: Cells=15 C0=13; C3=1; C4=1;
+Sample 3: Input: 5 x 5: Cells=25 C0=23; C3=1; C4=1; ; Output: 5 x 5: Cells=25 C0=23; C3=1; C4=1;
+Sample 4: Input: 7 x 7: Cells=49 C0=47; C3=1; C4=1; ; Output: 7 x 7: Cells=49 C0=47; C3=1; C4=1;
+Sample 5: Input: 10 x 10: Cells=100 C0=98; C3=1; C4=1; ; Output: 10 x 10: Cells=100 C0=98; C3=1; C4=1;
+Sample 6: Input: 11 x 11: Cells=121 C0=119; C3=1; C4=1; ; Output: 11 x 11: Cells=121 C0=119; C3=1; C4=1;
+Sample 7: Input: 3 x 3: Cells=9 C0=7; C3=1; C4=1; ; Output: 3 x 3: Cells=9 C0=7; C3=1; C4=1;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 354 ; ddf7fa4f.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=62; C2=1; C5=35; C6=1; C8=1; ; Output: 10 x 10: Cells=100 C0=62; C2=11; C6=17; C8=10;
+Sample 2: Input: 10 x 10: Cells=100 C0=61; C1=1; C4=1; C5=36; C7=1; ; Output: 10 x 10: Cells=100 C0=61; C1=17; C4=9; C7=13;
+Sample 3: Input: 10 x 10: Cells=100 C0=76; C1=1; C5=21; C6=1; C7=1; ; Output: 10 x 10: Cells=100 C0=76; C1=7; C6=10; C7=7;
+
+Are input dimensions common: False
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 355 ; de1cd16c.json: Samples: 4
+Sample 1: Input: 17 x 13: Cells=221 C0=34; C1=49; C4=54; C6=7; C8=77; ; Output: 1 x 1: Cells=1 C8=1;
+Sample 2: Input: 16 x 15: Cells=240 C1=7; C2=68; C3=62; C8=103; ; Output: 1 x 1: Cells=1 C2=1;
+Sample 3: Input: 16 x 17: Cells=272 C0=56; C1=53; C4=8; C5=79; C6=76; ; Output: 1 x 1: Cells=1 C6=1;
+Sample 4: Input: 16 x 19: Cells=304 C1=112; C2=3; C4=82; C8=107; ; Output: 1 x 1: Cells=1 C4=1;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 356 ; ded97339.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=96; C8=4; ; Output: 10 x 10: Cells=100 C0=87; C8=13;
+Sample 2: Input: 10 x 10: Cells=100 C0=95; C8=5; ; Output: 10 x 10: Cells=100 C0=88; C8=12;
+Sample 3: Input: 10 x 10: Cells=100 C0=94; C8=6; ; Output: 10 x 10: Cells=100 C0=81; C8=19;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 357 ; e179c5f4.json: Samples: 3
+Sample 1: Input: 10 x 2: Cells=20 C0=19; C1=1; ; Output: 10 x 2: Cells=20 C1=10; C8=10;
+Sample 2: Input: 10 x 3: Cells=30 C0=29; C1=1; ; Output: 10 x 3: Cells=30 C1=10; C8=20;
+Sample 3: Input: 10 x 4: Cells=40 C0=39; C1=1; ; Output: 10 x 4: Cells=40 C1=10; C8=30;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 358 ; e21d9049.json: Samples: 2
+Sample 1: Input: 12 x 11: Cells=132 C0=127; C2=1; C3=2; C8=2; ; Output: 12 x 11: Cells=132 C0=110; C2=6; C3=8; C8=8;
+Sample 2: Input: 15 x 14: Cells=210 C0=203; C2=2; C3=1; C4=2; C8=2; ; Output: 15 x 14: Cells=210 C0=182; C2=6; C3=7; C4=7; C8=8;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 359 ; e26a3af2.json: Samples: 3
+Sample 1: Input: 13 x 17: Cells=221 C1=51; C2=54; C3=47; C4=8; C5=5; C6=5; C7=4; C8=40; C9=7; ; Output: 13 x 17: Cells=221 C1=65; C2=65; C3=52; C8=39; 
+Sample 2: Input: 13 x 14: Cells=182 C1=34; C2=60; C3=4; C4=1; C5=5; C6=6; C7=1; C8=67; C9=4; ; Output: 13 x 14: Cells=182 C1=39; C2=65; C8=78;
+Sample 3: Input: 15 x 14: Cells=210 C1=25; C2=6; C3=53; C4=5; C5=3; C6=1; C7=69; C8=40; C9=8; ; Output: 15 x 14: Cells=210 C1=28; C3=56; C7=84; C8=42; 
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 360 ; e3497940.json: Samples: 3
+Sample 1: Input: 10 x 9: Cells=90 C0=68; C3=8; C4=4; C5=10; ; Output: 10 x 4: Cells=40 C0=30; C3=7; C4=3;
+Sample 2: Input: 10 x 9: Cells=90 C0=63; C2=13; C5=10; C6=4; ; Output: 10 x 4: Cells=40 C0=26; C2=11; C6=3;
+Sample 3: Input: 10 x 9: Cells=90 C0=68; C5=10; C7=3; C8=9; ; Output: 10 x 4: Cells=40 C0=28; C7=3; C8=9;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 361 ; e40b9e2f.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=89; C4=6; C7=5; ; Output: 10 x 10: Cells=100 C0=83; C4=9; C7=8;
+Sample 2: Input: 10 x 10: Cells=100 C0=94; C3=1; C6=5; ; Output: 10 x 10: Cells=100 C0=88; C3=4; C6=8;
+Sample 3: Input: 10 x 10: Cells=100 C0=90; C8=9; C9=1; ; Output: 10 x 10: Cells=100 C0=87; C8=9; C9=4;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 362 ; e48d4e1a.json: Samples: 4
+Sample 1: Input: 10 x 10: Cells=100 C0=79; C2=19; C5=2; ; Output: 10 x 10: Cells=100 C0=81; C2=19;
+Sample 2: Input: 10 x 10: Cells=100 C0=78; C4=19; C5=3; ; Output: 10 x 10: Cells=100 C0=81; C4=19;
+Sample 3: Input: 10 x 10: Cells=100 C0=78; C5=3; C6=19; ; Output: 10 x 10: Cells=100 C0=81; C6=19;
+Sample 4: Input: 10 x 10: Cells=100 C0=80; C3=19; C5=1; ; Output: 10 x 10: Cells=100 C0=81; C3=19;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 363 ; e5062a87.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=53; C2=4; C5=43; ; Output: 10 x 10: Cells=100 C0=37; C2=20; C5=43;
+Sample 2: Input: 10 x 10: Cells=100 C0=36; C2=4; C5=60; ; Output: 10 x 10: Cells=100 C0=32; C2=8; C5=60;
+Sample 3: Input: 10 x 10: Cells=100 C0=35; C2=4; C5=61; ; Output: 10 x 10: Cells=100 C0=23; C2=16; C5=61;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 364 ; e509e548.json: Samples: 3
+Sample 1: Input: 19 x 21: Cells=399 C0=348; C3=51; ; Output: 19 x 21: Cells=399 C0=348; C1=14; C2=16; C6=21;
+Sample 2: Input: 10 x 11: Cells=110 C0=85; C3=25; ; Output: 10 x 11: Cells=110 C0=85; C1=5; C2=10; C6=10;
+Sample 3: Input: 14 x 12: Cells=168 C0=138; C3=30; ; Output: 14 x 12: Cells=168 C0=138; C1=8; C2=8; C6=14;
+
+Are input dimensions common: True
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 365 ; e50d258f.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=40; C1=4; C2=6; C8=50; ; Output: 5 x 4: Cells=20 C1=1; C2=3; C8=16;
+Sample 2: Input: 10 x 10: Cells=100 C0=36; C1=24; C2=10; C8=30; ; Output: 3 x 3: Cells=9 C1=2; C2=5; C8=2;
+Sample 3: Input: 10 x 10: Cells=100 C0=52; C1=9; C2=5; C8=34; ; Output: 6 x 4: Cells=24 C1=4; C2=3; C8=17;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 366 ; e6721834.json: Samples: 3
+Sample 1: Input: 30 x 17: Cells=510 C0=248; C1=38; C2=10; C3=8; C8=206; ; Output: 15 x 17: Cells=255 C0=221; C1=27; C2=3; C3=4;
+Sample 2: Input: 11 x 20: Cells=220 C1=106; C2=4; C3=20; C6=86; C8=4; ; Output: 11 x 10: Cells=110 C1=86; C2=2; C3=20; C8=2;
+Sample 3: Input: 10 x 16: Cells=160 C1=15; C2=4; C4=77; C6=2; C8=62; ; Output: 10 x 8: Cells=80 C1=15; C2=2; C4=62; C6=1;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 367 ; e73095fd.json: Samples: 3
+Sample 1: Input: 12 x 19: Cells=228 C0=160; C5=68; ; Output: 12 x 19: Cells=228 C0=142; C4=18; C5=68;
+Sample 2: Input: 13 x 16: Cells=208 C0=160; C5=48; ; Output: 13 x 16: Cells=208 C0=148; C4=12; C5=48;
+Sample 3: Input: 15 x 17: Cells=255 C0=175; C5=80; ; Output: 15 x 17: Cells=255 C0=156; C4=19; C5=80;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 368 ; e76a88a6.json: Samples: 2
+Sample 1: Input: 10 x 10: Cells=100 C0=73; C2=4; C4=5; C5=18; ; Output: 10 x 10: Cells=100 C0=73; C2=12; C4=15;
+Sample 2: Input: 10 x 10: Cells=100 C0=64; C5=24; C6=6; C8=6; ; Output: 10 x 10: Cells=100 C0=64; C6=18; C8=18;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 369 ; e8593010.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=25; C5=75; ; Output: 10 x 10: Cells=100 C1=6; C2=12; C3=7; C5=75;
+Sample 2: Input: 10 x 10: Cells=100 C0=26; C5=74; ; Output: 10 x 10: Cells=100 C1=6; C2=12; C3=8; C5=74;
+Sample 3: Input: 10 x 10: Cells=100 C0=27; C5=73; ; Output: 10 x 10: Cells=100 C1=9; C2=10; C3=8; C5=73;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 370 ; e8dc4411.json: Samples: 3
+Sample 1: Input: 12 x 14: Cells=168 C0=4; C2=1; C8=163; ; Output: 12 x 14: Cells=168 C0=4; C2=13; C8=151;
+Sample 2: Input: 13 x 15: Cells=195 C0=5; C1=189; C3=1; ; Output: 13 x 15: Cells=195 C0=5; C1=177; C3=13;
+Sample 3: Input: 12 x 16: Cells=192 C0=17; C4=174; C8=1; ; Output: 12 x 16: Cells=192 C0=17; C4=158; C8=17;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 371 ; e9614598.json: Samples: 2
+Sample 1: Input: 10 x 10: Cells=100 C0=98; C1=2; ; Output: 10 x 10: Cells=100 C0=93; C1=2; C3=5;
+Sample 2: Input: 10 x 10: Cells=100 C0=98; C1=2; ; Output: 10 x 10: Cells=100 C0=93; C1=2; C3=5;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 372 ; e98196ab.json: Samples: 3
+Sample 1: Input: 11 x 11: Cells=121 C0=99; C1=6; C5=11; C8=5; ; Output: 5 x 11: Cells=55 C0=44; C1=6; C8=5;
+Sample 2: Input: 11 x 11: Cells=121 C0=96; C3=6; C5=11; C7=8; ; Output: 5 x 11: Cells=55 C0=41; C3=6; C7=8;
+Sample 3: Input: 11 x 11: Cells=121 C0=94; C1=10; C2=6; C5=11; ; Output: 5 x 11: Cells=55 C0=39; C1=10; C2=6;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 373 ; e9afcf9a.json: Samples: 2
+Sample 1: Input: 2 x 6: Cells=12 C3=6; C9=6; ; Output: 2 x 6: Cells=12 C3=6; C9=6;
+Sample 2: Input: 2 x 6: Cells=12 C4=6; C8=6; ; Output: 2 x 6: Cells=12 C4=6; C8=6;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 374 ; ea32f347.json: Samples: 4
+Sample 1: Input: 10 x 10: Cells=100 C0=86; C5=14; ; Output: 10 x 10: Cells=100 C0=86; C1=6; C2=3; C4=5;
+Sample 2: Input: 10 x 10: Cells=100 C0=88; C5=12; ; Output: 10 x 10: Cells=100 C0=88; C1=6; C2=2; C4=4;
+Sample 3: Input: 10 x 10: Cells=100 C0=86; C5=14; ; Output: 10 x 10: Cells=100 C0=86; C1=6; C2=3; C4=5;
+Sample 4: Input: 10 x 10: Cells=100 C0=84; C5=16; ; Output: 10 x 10: Cells=100 C0=84; C1=7; C2=4; C4=5;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 375 ; ea786f4a.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C0=1; C1=8; ; Output: 3 x 3: Cells=9 C0=5; C1=4;
+Sample 2: Input: 5 x 5: Cells=25 C0=1; C2=24; ; Output: 5 x 5: Cells=25 C0=9; C2=16;
+Sample 3: Input: 7 x 7: Cells=49 C0=1; C3=48; ; Output: 7 x 7: Cells=49 C0=13; C3=36;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 376 ; eb281b96.json: Samples: 2
+Sample 1: Input: 3 x 17: Cells=51 C0=34; C8=17; ; Output: 9 x 17: Cells=153 C0=99; C8=54;
+Sample 2: Input: 4 x 17: Cells=68 C0=43; C2=25; ; Output: 13 x 17: Cells=221 C0=135; C2=86;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 377 ; eb5a1d5d.json: Samples: 3
+Sample 1: Input: 23 x 27: Cells=621 C2=36; C3=252; C8=333; ; Output: 5 x 5: Cells=25 C2=1; C3=8; C8=16;
+Sample 2: Input: 22 x 25: Cells=550 C5=355; C6=195; ; Output: 3 x 3: Cells=9 C5=8; C6=1;
+Sample 3: Input: 21 x 22: Cells=462 C1=15; C2=66; C3=266; C8=115; ; Output: 7 x 7: Cells=49 C1=1; C2=8; C3=24; C8=16;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 378 ; ec883f72.json: Samples: 4
+Sample 1: Input: 6 x 6: Cells=36 C0=25; C3=4; C9=7; ; Output: 6 x 6: Cells=36 C0=23; C3=6; C9=7;
+Sample 2: Input: 8 x 8: Cells=64 C0=54; C6=1; C8=9; ; Output: 8 x 8: Cells=64 C0=51; C6=4; C8=9;
+Sample 3: Input: 9 x 9: Cells=81 C0=65; C2=4; C4=12; ; Output: 9 x 9: Cells=81 C0=62; C2=7; C4=12;
+Sample 4: Input: 12 x 12: Cells=144 C0=112; C4=20; C5=12; ; Output: 12 x 12: Cells=144 C0=107; C4=25; C5=12;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 379 ; ecdecbb3.json: Samples: 3
+Sample 1: Input: 13 x 13: Cells=169 C0=154; C2=2; C8=13; ; Output: 13 x 13: Cells=169 C0=138; C2=8; C8=23;
+Sample 2: Input: 13 x 18: Cells=234 C0=207; C2=1; C8=26; ; Output: 13 x 18: Cells=234 C0=188; C2=10; C8=36;
+Sample 3: Input: 17 x 12: Cells=204 C0=178; C2=2; C8=24; ; Output: 17 x 12: Cells=204 C0=155; C2=10; C8=39;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 380 ; ed36ccf7.json: Samples: 4
+Sample 1: Input: 3 x 3: Cells=9 C0=2; C9=7; ; Output: 3 x 3: Cells=9 C0=2; C9=7;
+Sample 2: Input: 3 x 3: Cells=9 C0=4; C6=5; ; Output: 3 x 3: Cells=9 C0=4; C6=5;
+Sample 3: Input: 3 x 3: Cells=9 C0=4; C9=5; ; Output: 3 x 3: Cells=9 C0=4; C9=5;
+Sample 4: Input: 3 x 3: Cells=9 C0=4; C2=5; ; Output: 3 x 3: Cells=9 C0=4; C2=5;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 381 ; ef135b50.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=73; C2=27; ; Output: 10 x 10: Cells=100 C0=61; C2=27; C9=12;
+Sample 2: Input: 10 x 10: Cells=100 C0=64; C2=36; ; Output: 10 x 10: Cells=100 C0=51; C2=36; C9=13;
+Sample 3: Input: 10 x 10: Cells=100 C0=46; C2=54; ; Output: 10 x 10: Cells=100 C0=38; C2=54; C9=8;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 382 ; f15e1fac.json: Samples: 3
+Sample 1: Input: 17 x 12: Cells=204 C0=198; C2=2; C8=4; ; Output: 17 x 12: Cells=204 C0=134; C2=2; C8=68;
+Sample 2: Input: 14 x 10: Cells=140 C0=135; C2=3; C8=2; ; Output: 14 x 10: Cells=140 C0=112; C2=3; C8=25;
+Sample 3: Input: 12 x 12: Cells=144 C0=139; C2=2; C8=3; ; Output: 12 x 12: Cells=144 C0=106; C2=2; C8=36;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 383 ; f1cefba8.json: Samples: 3
+Sample 1: Input: 19 x 13: Cells=247 C0=104; C2=66; C8=77; ; Output: 19 x 13: Cells=247 C0=90; C2=54; C8=103;
+Sample 2: Input: 15 x 17: Cells=255 C0=159; C1=61; C4=35; ; Output: 15 x 17: Cells=255 C0=140; C1=78; C4=37;
+Sample 3: Input: 16 x 18: Cells=288 C0=144; C2=78; C3=66; ; Output: 16 x 18: Cells=288 C0=134; C2=95; C3=59;
+
+Are input dimensions common: True
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 384 ; f25fbde4.json: Samples: 3
+Sample 1: Input: 9 x 9: Cells=81 C0=73; C4=8; ; Output: 6 x 8: Cells=48 C0=16; C4=32;
+Sample 2: Input: 9 x 9: Cells=81 C0=77; C4=4; ; Output: 6 x 6: Cells=36 C0=20; C4=16;
+Sample 3: Input: 9 x 9: Cells=81 C0=75; C4=6; ; Output: 8 x 6: Cells=48 C0=24; C4=24;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 385 ; f25ffba3.json: Samples: 2
+Sample 1: Input: 10 x 4: Cells=40 C0=28; C2=2; C3=4; C4=1; C9=5; ; Output: 10 x 4: Cells=40 C0=16; C2=4; C3=8; C4=2; C9=10;
+Sample 2: Input: 10 x 4: Cells=40 C0=29; C2=5; C3=3; C8=3; ; Output: 10 x 4: Cells=40 C0=18; C2=10; C3=6; C8=6;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 386 ; f2829549.json: Samples: 5
+Sample 1: Input: 4 x 7: Cells=28 C0=15; C1=4; C5=6; C7=3; ; Output: 4 x 3: Cells=12 C0=7; C3=5;
+Sample 2: Input: 4 x 7: Cells=28 C0=14; C1=4; C5=4; C7=6; ; Output: 4 x 3: Cells=12 C0=7; C3=5;
+Sample 3: Input: 4 x 7: Cells=28 C0=14; C1=4; C5=5; C7=5; ; Output: 4 x 3: Cells=12 C0=8; C3=4;
+Sample 4: Input: 4 x 7: Cells=28 C0=12; C1=4; C5=7; C7=5; ; Output: 4 x 3: Cells=12 C0=9; C3=3;
+Sample 5: Input: 4 x 7: Cells=28 C0=11; C1=4; C5=8; C7=5; ; Output: 4 x 3: Cells=12 C0=10; C3=2;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 387 ; f35d900a.json: Samples: 4
+Sample 1: Input: 14 x 14: Cells=196 C0=192; C2=2; C3=2; ; Output: 14 x 14: Cells=196 C0=152; C2=18; C3=18; C5=8;
+Sample 2: Input: 17 x 14: Cells=238 C0=234; C1=2; C8=2; ; Output: 17 x 14: Cells=238 C0=188; C1=18; C5=14; C8=18;
+Sample 3: Input: 17 x 16: Cells=272 C0=268; C2=2; C4=2; ; Output: 17 x 16: Cells=272 C0=220; C2=18; C4=18; C5=16;
+Sample 4: Input: 17 x 16: Cells=272 C0=268; C3=2; C8=2; ; Output: 17 x 16: Cells=272 C0=226; C3=18; C5=10; C8=18;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 388 ; f5b8619d.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C0=7; C2=2; ; Output: 6 x 6: Cells=36 C0=12; C2=8; C8=16;
+Sample 2: Input: 6 x 6: Cells=36 C0=33; C5=3; ; Output: 12 x 12: Cells=144 C0=72; C5=12; C8=60;
+Sample 3: Input: 2 x 2: Cells=4 C0=3; C4=1; ; Output: 4 x 4: Cells=16 C0=8; C4=4; C8=4;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: True
+Task No. 389 ; f76d97a5.json: Samples: 3
+Sample 1: Input: 3 x 3: Cells=9 C4=4; C5=5; ; Output: 3 x 3: Cells=9 C0=4; C4=5;
+Sample 2: Input: 5 x 5: Cells=25 C5=10; C6=15; ; Output: 5 x 5: Cells=25 C0=15; C6=10;
+Sample 3: Input: 5 x 5: Cells=25 C5=7; C9=18; ; Output: 5 x 5: Cells=25 C0=18; C9=7;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 390 ; f8a8fe49.json: Samples: 3
+Sample 1: Input: 15 x 15: Cells=225 C0=201; C2=18; C5=6; ; Output: 15 x 15: Cells=225 C0=201; C2=18; C5=6;
+Sample 2: Input: 15 x 15: Cells=225 C0=197; C2=20; C5=8; ; Output: 15 x 15: Cells=225 C0=197; C2=20; C5=8;
+Sample 3: Input: 15 x 15: Cells=225 C0=204; C2=14; C5=7; ; Output: 15 x 15: Cells=225 C0=204; C2=14; C5=7;
+
+Are input dimensions common: False
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 391 ; f8b3ba0a.json: Samples: 4
+Sample 1: Input: 13 x 13: Cells=169 C0=121; C1=36; C2=4; C3=2; C4=6; ; Output: 3 x 1: Cells=3 C2=1; C3=1; C4=1;
+Sample 2: Input: 13 x 16: Cells=208 C0=148; C1=6; C2=2; C6=8; C8=44; ; Output: 3 x 1: Cells=3 C1=1; C2=1; C6=1;
+Sample 3: Input: 13 x 10: Cells=130 C0=94; C1=2; C2=6; C3=24; C8=4; ; Output: 3 x 1: Cells=3 C1=1; C2=1; C8=1;
+Sample 4: Input: 13 x 13: Cells=169 C0=121; C1=32; C2=6; C4=2; C8=8; ; Output: 3 x 1: Cells=3 C2=1; C4=1; C8=1;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 392 ; f8c80d96.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=79; C8=21; ; Output: 10 x 10: Cells=100 C5=45; C8=55;
+Sample 2: Input: 10 x 10: Cells=100 C0=84; C1=16; ; Output: 10 x 10: Cells=100 C1=33; C5=67;
+Sample 3: Input: 10 x 10: Cells=100 C0=82; C2=18; ; Output: 10 x 10: Cells=100 C2=53; C5=47;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 393 ; f8ff0b80.json: Samples: 3
+Sample 1: Input: 12 x 12: Cells=144 C0=125; C2=7; C3=8; C8=4; ; Output: 3 x 1: Cells=3 C2=1; C3=1; C8=1;
+Sample 2: Input: 12 x 12: Cells=144 C0=125; C1=9; C2=4; C7=6; ; Output: 3 x 1: Cells=3 C1=1; C2=1; C7=1;
+Sample 3: Input: 12 x 12: Cells=144 C0=118; C1=5; C2=7; C4=14; ; Output: 3 x 1: Cells=3 C1=1; C2=1; C4=1;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 394 ; f9012d9b.json: Samples: 3
+Sample 1: Input: 5 x 5: Cells=25 C0=4; C1=13; C2=8; ; Output: 2 x 2: Cells=4 C1=3; C2=1;
+Sample 2: Input: 4 x 4: Cells=16 C0=1; C6=8; C8=7; ; Output: 1 x 1: Cells=1 C8=1;
+Sample 3: Input: 7 x 7: Cells=49 C0=4; C2=24; C5=21; ; Output: 2 x 2: Cells=4 C2=1; C5=3;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 395 ; fafffa47.json: Samples: 5
+Sample 1: Input: 6 x 3: Cells=18 C0=6; C1=5; C9=7; ; Output: 3 x 3: Cells=9 C0=7; C2=2;
+Sample 2: Input: 6 x 3: Cells=18 C0=9; C1=4; C9=5; ; Output: 3 x 3: Cells=9 C0=7; C2=2;
+Sample 3: Input: 6 x 3: Cells=18 C0=12; C1=2; C9=4; ; Output: 3 x 3: Cells=9 C0=4; C2=5;
+Sample 4: Input: 6 x 3: Cells=18 C0=9; C1=4; C9=5; ; Output: 3 x 3: Cells=9 C0=7; C2=2;
+Sample 5: Input: 6 x 3: Cells=18 C0=8; C1=5; C9=5; ; Output: 3 x 3: Cells=9 C0=7; C2=2;
+
+Are input dimensions common: False
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 396 ; fcb5c309.json: Samples: 3
+Sample 1: Input: 13 x 13: Cells=169 C0=126; C2=34; C4=9; ; Output: 7 x 7: Cells=49 C0=23; C4=26;
+Sample 2: Input: 13 x 16: Cells=208 C0=152; C1=40; C3=16; ; Output: 6 x 7: Cells=42 C0=17; C3=25;
+Sample 3: Input: 15 x 16: Cells=240 C0=178; C2=14; C3=48; ; Output: 7 x 7: Cells=49 C0=21; C2=28;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: True
+Task No. 397 ; fcc82909.json: Samples: 3
+Sample 1: Input: 10 x 10: Cells=100 C0=92; C4=1; C6=2; C7=2; C8=1; C9=2; ; Output: 10 x 10: Cells=100 C0=82; C3=10; C4=1; C6=2; C7=2; C8=1; C9=2;      
+Sample 2: Input: 10 x 10: Cells=100 C0=92; C1=2; C2=2; C4=2; C8=1; C9=1; ; Output: 10 x 10: Cells=100 C0=82; C1=2; C2=2; C3=10; C4=2; C8=1; C9=1;      
+Sample 3: Input: 10 x 10: Cells=100 C0=88; C2=1; C4=1; C6=4; C7=2; C8=2; C9=2; ; Output: 10 x 10: Cells=100 C0=72; C2=1; C3=16; C4=1; C6=4; C7=2; C8=2; C9=2;
+
+Are input dimensions common: True
+Are output dimensions common: False
+Are sample dimensions common: False
+Task No. 398 ; feca6190.json: Samples: 5
+Sample 1: Input: 1 x 5: Cells=5 C0=3; C1=1; C7=1; ; Output: 10 x 10: Cells=100 C0=82; C1=10; C7=8;
+Sample 2: Input: 1 x 5: Cells=5 C0=4; C2=1; ; Output: 5 x 5: Cells=25 C0=22; C2=3;
+Sample 3: Input: 1 x 5: Cells=5 C0=2; C4=1; C6=1; C8=1; ; Output: 15 x 15: Cells=225 C0=186; C4=15; C6=13; C8=11;
+Sample 4: Input: 1 x 5: Cells=5 C0=2; C4=1; C8=1; C9=1; ; Output: 15 x 15: Cells=225 C0=188; C4=11; C8=12; C9=14;
+Sample 5: Input: 1 x 5: Cells=5 C0=4; C4=1; ; Output: 5 x 5: Cells=25 C0=21; C4=4;
+
+Are input dimensions common: False
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 399 ; ff28f65a.json: Samples: 8
+Sample 1: Input: 5 x 5: Cells=25 C0=21; C2=4; ; Output: 3 x 3: Cells=9 C0=8; C1=1;
+Sample 2: Input: 5 x 5: Cells=25 C0=17; C2=8; ; Output: 3 x 3: Cells=9 C0=7; C1=2;
+Sample 3: Input: 7 x 7: Cells=49 C0=37; C2=12; ; Output: 3 x 3: Cells=9 C0=6; C1=3;
+Sample 4: Input: 6 x 6: Cells=36 C0=28; C2=8; ; Output: 3 x 3: Cells=9 C0=7; C1=2;
+Sample 5: Input: 3 x 3: Cells=9 C0=5; C2=4; ; Output: 3 x 3: Cells=9 C0=8; C1=1;
+Sample 6: Input: 7 x 7: Cells=49 C0=33; C2=16; ; Output: 3 x 3: Cells=9 C0=5; C1=4;
+Sample 7: Input: 7 x 7: Cells=49 C0=29; C2=20; ; Output: 3 x 3: Cells=9 C0=4; C1=5;
+Sample 8: Input: 7 x 7: Cells=49 C0=33; C2=16; ; Output: 3 x 3: Cells=9 C0=5; C1=4;
+
+Are input dimensions common: True
+Are output dimensions common: True
+Are sample dimensions common: False
+Task No. 400 ; ff805c23.json: Samples: 3
+Sample 1: Input: 24 x 24: Cells=576 C0=190; C1=25; C2=272; C3=89; ; Output: 5 x 5: Cells=25 C0=6; C3=19;
+Sample 2: Input: 24 x 24: Cells=576 C0=196; C1=25; C3=96; C6=99; C8=160; ; Output: 5 x 5: Cells=25 C0=4; C6=21;
+Sample 3: Input: 24 x 24: Cells=576 C0=246; C1=25; C3=96; C5=209; ; Output: 5 x 5: Cells=25 C0=14; C5=11;
