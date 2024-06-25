@@ -4,7 +4,7 @@ from collections import Counter
 import json
 
 class CONFIG:
-    PATH = r"C:\Users\damia\Documents\GitHub\ARC-AGI\data\training"
+    PATH = r"MUST UPDATE THIS"
     RECORDS = 500
 
     DISPLAY_INPUT = True
