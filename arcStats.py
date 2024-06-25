@@ -4,8 +4,8 @@ from collections import Counter
 import json
 
 class CONFIG:
-    PATH = r"MUST BE UPDATED"
-    RECORDS = 5
+    PATH = r"C:\Users\damia\Documents\GitHub\ARC-AGI\data\training"
+    RECORDS = 500
 
     DISPLAY_INPUT = True
     DISPLAY_INPUT_DETAIL = False
@@ -41,7 +41,11 @@ class Task:
         print(f"Are input dimensions common: {self._are_input_rows_and_columns_common}")
         print(f"Are output dimensions common: {self._are_output_rows_and_columns_common}")
         print(f"Are sample dimensions common: {self._are_sample_rows_and_columns_common}")
-
+        
+        is_greyscale_common = False
+        for sample in self._samples:
+            is_greyscale_common = Test.is_greyscale_shape_common(sample)   
+        print(f"Greyscale: {is_greyscale_common}")    
 
     def are_input_rows_and_columns_common(self):
         compare = []
@@ -102,6 +106,15 @@ class Test:
                 return False
 
         return True
+
+    @classmethod
+    def is_greyscale_shape_common(cls, sample):
+        is_greyscale_common = False
+        greyscale_input = [[-1 if num != 0 else num for num in row] for row in sample._input._data]
+        greyscale_output = [[-1 if num != 0 else num for num in row] for row in sample._output._data]
+        if greyscale_input == greyscale_output:
+            is_greyscale_common = True
+        return is_greyscale_common
 
     def __str__(self):
         string = ""
